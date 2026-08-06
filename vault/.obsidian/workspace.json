@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "85e70c6207d932f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ef899ae0512ffc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "751213cf31210057",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51daec0c699931ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e134de328536598",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b05d04d3b7082155",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "2e2369813dd851a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a1a63220efb09685",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "522e892991b5a925",
+    "type": "split",
+    "children": [
+      {
+        "id": "65529763c82563b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beafaeb8354c7095",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "flashbrix/user stories/ABP-FL1-MaintainUserAccount.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para ABP-FL1-MaintainUserAccount"
+            }
+          },
+          {
+            "id": "d857f18caa47bb7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "flashbrix/user stories/ABP-FL1-MaintainUserAccount.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para ABP-FL1-MaintainUserAccount"
+            }
+          },
+          {
+            "id": "5bd3778c81659fcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "307aa8b659f28275",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "172b3d0cd7c6f033",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "flashbrix/user stories/ABP-FL1-MaintainUserAccount.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de ABP-FL1-MaintainUserAccount"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "751213cf31210057",
+  "lastOpenFiles": [
+    "flashbrix/user stories/ABP-FL1-MaintainUserAccount.md",
+    "products/README.md",
+    "agents/repo-consistency.md",
+    "agents/prefer-existing-files.md",
+    "agents/partials/active-scope.md",
+    "agents/architecture.md",
+    "agents/partials/ooux-vocabulary.md",
+    "agents/partials/teste.md",
+    "agents/product-progress.md.tmp.37220.cf4149f2903a",
+    "agents/gamifier.md",
+    "sprint-plan-2026-07.md",
+    "sprint-plan-2026-07.md.tmp.32064.f344fbb099a8",
+    "agents/gestalt-context.md.tmp.13876.3ba639db2c6f",
+    "agents/partials/owner-preferences.md",
+    "agents/partials",
+    "agents/pibiti-citations.md",
+    "agents/implement-deviante-uc.md",
+    "agents/gestalt-context.md",
+    "agents/deviante-figma-use-cases.md",
+    "agents/deviante-domain.md",
+    "agents/dev-session.md",
+    "agents/dev-quest-hud.md",
+    "agents/dev-domains.md",
+    "agents/database.md"
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Debug Drift Detection"
+  short_description: "Diagnostica o percurso IPDD/ADWIN no Deviante"
+  default_prompt: "Use $debug-drift-detection para localizar e corrigir uma falha de escopo na análise IPDD/ADWIN."
