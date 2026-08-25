@@ -1,5 +1,33 @@
 ﻿# Changelog
 
+## 0.25.0 — 2026-08-24
+
+- **DV + MB both active (scope unfrozen).** Rewrote `partials/active-scope.md`:
+  Deviante and Milebrick are developed simultaneously (build + doc + ship),
+  Portfolio parallel; the old "Deviante congelado / Milebrick só prioridade"
+  registries are historical. Informed `architect`, `content-strategist`,
+  `maestro` accordingly.
+- **Per-product arc42 architecture.** New `partials/arc42-structure.md` (the 12
+  sections + arc42↔C4 mapping, from the `ARQUITETURA_CLOUD_3-ARCH42` deck) and
+  new skill `arc42-doc` (procedure to document a product's architecture in its
+  own repo). `architect` now owns two SoTs: hub `docs/architecture.md` **and**
+  per-product arc42 (`deviante/docs/architecture/arc42.md`,
+  `milebrick/doc/architecture/arc42.md`). Milebrick brought to the 12-section
+  standard (C4 L1/L2/L3 embedded inline); §5 ↔ Objetos cross-links wired both
+  products.
+- **Consistent product-site skeleton.** New `partials/lp-skeleton.md`: same tabs
+  (Landing · Documentação · Casos de Uso · Objetos), only content differs;
+  branded UI inherits from one unbranded standard UI. `content-strategist` owns
+  the per-product content map; `milebrick/web/src/lib/docs.js` mirrors Deviante.
+
+## 0.24.0 — 2026-08-18
+
+- **Harpia discontinued** — the product no longer exists. Removed the `harpia/`
+  folder, the `harpia` Supabase schema, all `portfolio.*` rows (product,
+  quest, publication), and every reference across agents, skills, partials,
+  vault, docs, umbrella arrays, and the `recompute_gestalt_version()` function.
+  Portfolio-completion umbrella is now IO + DV + MB. Do not recreate Harpia.
+
 ## 0.23.0 — 2026-08-04
 
 - **`/debug-drift-detection` command** — evidence-first Deviante workflow from

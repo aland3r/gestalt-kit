@@ -83,7 +83,8 @@ they need ongoing facilitation, tools, or a separate mandate.
 
 Examples you already have:
 
-- `active-scope`, `sot-matrix`, `ai-tooling`, `kit-navigation`, `portfolio-completion`, `ux-writing-pipeline`, `ooux-vocabulary`, `uc-esteira` → partials  
+- `active-scope`, `sot-matrix`, `ai-tooling`, `kit-navigation`, `portfolio-completion`, `ux-writing-pipeline`, `ooux-vocabulary`, `uc-esteira`, `arc42-structure`, `lp-skeleton` → partials  
+- `arc42-doc` (document a product's architecture in its repo) → skill  
 - `truth-keeper`, `ooux`, `data-guardian` → agents (they *conduct* work)  
 - `ship-quest`, `uc-gate`, `kit-depara` → commands  
 - `kit-entry` → skill (cold start / parse bootstrap — links `kit-navigation`, not a duplicate)
@@ -155,9 +156,12 @@ Dica do regente: …
 
 **DB / tables:** prefer **Supabase MCP** (`list_tables`, `execute_sql`,
 `apply_migration`) over inventing SQL dumps or long chat reconstructions —
-cheaper and live-SoT. Owner authorizes table manipulation for IO+DV work.
+cheaper and live-SoT. Owner authorizes table manipulation for IO+DV+MB work.
 
-Active scope: IO + DV — `partials/active-scope.md`.
+Active scope: **IO + DV + MB** (DV and MB developed simultaneously) —
+`partials/active-scope.md`. Shared product-site skeleton:
+`partials/lp-skeleton.md`. Per-product arc42: `partials/arc42-structure.md` +
+skill `arc42-doc`.
 
 ## Session open
 

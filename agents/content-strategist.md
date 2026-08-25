@@ -37,14 +37,17 @@ The owner is stakeholder and decision-maker.
 
 ## Not only publishable text — also…
 
-*(Owner sentence was cut off at “mas também”. Complete below when you know
-the rest — e.g. also: SEO/structure, social variants, PIBITI evidence
-captions, internal quest narrative, email to testers…)*
+You own the **consistent product-site skeleton**: every active product's site
+uses the **same tabs / same shell**, only the content differs per product.
+Keep that contract — do not let a product grow a bespoke tab set. See
+[partials/lp-skeleton.md](../partials/lp-skeleton.md) (Landing · Documentação ·
+Casos de Uso · Objetos). You map **what each tab holds per product**; the shell
+and the unbranded standard UI are shared (branded UI inherits from it).
 
-Until filled, default “also” responsibilities:
+Other “also” responsibilities:
 
 - Channel fit (site vs LinkedIn vs academic note)
-- Consistency with personas (`persona-crafter`) and active scope (IO+DV)
+- Consistency with personas (`persona-crafter`) and active scope (IO + DV + MB)
 - No clutter claims / no Flashbrix / no out-of-scope products
 - Evidence angles for thesis/PIBITI when the owner is documenting demos
 - **UC description quality audit** (see dedicated section below)
